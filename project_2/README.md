@@ -1,5 +1,5 @@
-- This project was created using [https://colab.research.google.com/](Google Colab).
-- You can also view my project in Colab [https://colab.research.google.com/drive/17ACUSj_MVoD7IyVRn5MfSDnsCsU0fkke?usp=sharing](here).
+- This project was created using [Google Colab](https://colab.research.google.com/).
+- You can also view this project in Colab [here](https://colab.research.google.com/drive/17ACUSj_MVoD7IyVRn5MfSDnsCsU0fkke?usp=sharing).
 ## **Averaging filter :**
 > This method appears to make my image more smooth by reducing the amount color variation in the pixels between neighbouring pixels; including itself.
 ## **Sobel filter :**
