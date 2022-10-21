@@ -1,4 +1,5 @@
-This a collection of projects based around a course I am taking learning about image processing and computer vision.
+- This a collection of projects based around a course I am taking learning about image processing and computer vision.
+- This project was created using [Google Colab](https://colab.research.google.com/).
 
 # Project 1
 > Simple enhancement methods to add to an image after background is removed:
@@ -12,3 +13,5 @@ This a collection of projects based around a course I am taking learning about i
 > Additional add-ons to project 4 that use morpholigical tools.
 
 adding more implementations as I work on them . . .
+
+If you have any questions or would just like to chat, you can reach me at lopezissaca@gmail.com. Have fun looking around!
