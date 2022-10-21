@@ -1,5 +1,5 @@
-- This project was created using [https://colab.research.google.com/](Google Colab).
-- You can use view my project in Colab [https://colab.research.google.com/drive/1I-fsfalshe-hYstXF4KT7LjA2EXckWPG?usp=sharing](here).
+- This project was created using [Google Colab](https://colab.research.google.com/).
+- You can use view my project in Colab [here](https://colab.research.google.com/drive/1I-fsfalshe-hYstXF4KT7LjA2EXckWPG?usp=sharing).
 ## 1. **Read Image**
 #### 1.1. Mount Drive
 > Use `cp -r` following the file path in drive to portrait image location then saving the image in to a **mydata** directory created in colab.
